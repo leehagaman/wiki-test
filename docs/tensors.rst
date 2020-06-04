@@ -1,5 +1,3 @@
-.. tensors:
-
 Introduction to Tensors
 =====================================
 
