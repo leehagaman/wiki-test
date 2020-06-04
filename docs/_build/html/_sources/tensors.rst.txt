@@ -1,6 +1,6 @@
-.. tensors:
+.. _tensors:
 
-Introduction to Tensors
+Tensors
 =====================================
 
 Tensors are like matrices but not totally

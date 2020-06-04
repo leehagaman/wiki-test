@@ -12,10 +12,3 @@ Welcome to wiki-test's documentation!
    intro
    tensors
 
-
-
-Pages
-==================
-
-* :ref:`intro`
-* :ref:`tensors`
