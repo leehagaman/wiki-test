@@ -1,4 +1,4 @@
-.. intro:
+.. tensors:
 
 Introduction to Tensors
 =====================================
