@@ -14,9 +14,8 @@ Welcome to wiki-test's documentation!
 
 
 
-Indices and tables
+Pages
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+* :ref:`intro`
+* :ref:`tensors`
